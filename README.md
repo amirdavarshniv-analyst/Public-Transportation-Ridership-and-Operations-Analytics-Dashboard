@@ -73,15 +73,6 @@ The Excel dashboard includes:
 3. Use dropdowns and slicers to interact with the dashboard
 4. Analyze key metrics and use insights to guide decision making
 
----
-
-## 👨‍💻 Author
-
-**[Elsayed Abdelhamed]**  
-Data Analyst | Excel | Power BI | Python | Sql
-
-📧 eng.sayed2047@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/elsayed-soliman-0478b128a/)  
 
 
 ⚠️ **Important:** After downloading the `.xlsm` file, make sure to:
